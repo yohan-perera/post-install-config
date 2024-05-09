@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Gain understanding of ticketing system components such as Ticket Properties, SLAs, Departments, Permissions, and Users
 
 <h2>Configuration Steps</h2>
-
+<br />
 <p>
 Once successfully logged into osTicket Admin Panel, navigate to Agents/Roles.
 </p>
@@ -29,7 +29,7 @@ Once successfully logged into osTicket Admin Panel, navigate to Agents/Roles.
 
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/ec7ee8de-d817-41db-beae-9a24e1dec34a)
 
-
+<br />
 <p>
 Add new role called ‘Supreme Admin’ and give all permissions, complete access to manage platform.
 </p>
@@ -38,6 +38,7 @@ Add new role called ‘Supreme Admin’ and give all permissions, complete acces
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/85ac3e49-7dfc-4b43-a563-30dccd699ffc)
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/a9e5a2e4-d6b7-4263-a663-bef7ea9754d7)
 
+<br />
 <p>
 Navigate to Agents/Departments, then create new department called ‘System Administrators’.
 </p>
@@ -46,6 +47,7 @@ Navigate to Agents/Departments, then create new department called ‘System Admi
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/6c0a3528-8406-4782-83b3-845cac683809)
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/778cadf4-e3aa-4065-a9ca-eea65eebf624)
 
+<br />
 <p>
 Navigate to Agents/Teams, then create new team called ‘Level II Support’.
 </p>
@@ -54,6 +56,7 @@ Navigate to Agents/Teams, then create new team called ‘Level II Support’.
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/127f54ff-5f52-4692-8991-cc098d71b1aa)
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/37330f6d-26a5-49fe-b075-df10205ccf38)
 
+<br />
 <p>
 Navigate to Settings/Users and ensure that ‘Require registration and login to create ticket’ is not checked which will allow any user to create tickets, even if they are anonymous and not registered.
 </p>
@@ -61,6 +64,7 @@ Navigate to Settings/Users and ensure that ‘Require registration and login to 
 
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/104ce658-4c1e-4f50-8af3-0b2094e71a1b)
 
+<br />
 <p>
 Navigate to top ‘Agents’ section and and fill in details for new agents as per the following examples.
 </p>
@@ -70,6 +74,7 @@ Navigate to top ‘Agents’ section and and fill in details for new agents as p
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/bd66244f-a693-4b8e-8244-0343861e5314)
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/e1faec6b-7365-44ed-9de5-5f72576e4a7a)
 
+<br />
 <p>
 Switch to ‘Agent Panel’, navigate to ‘Users’, and create users as per the following examples.
 </p>
@@ -79,6 +84,7 @@ Switch to ‘Agent Panel’, navigate to ‘Users’, and create users as per th
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/2b204da2-0c6a-41bb-b272-1097402fd3db)
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/6a147319-93d5-4d97-9c64-de05748112a5)
 
+<br />
 <p>
 Switch to ‘Admin Panel’, navigate to ‘Manage/SLA’ and add SLA plans as per the following examples.
 </p>
@@ -89,6 +95,7 @@ Switch to ‘Admin Panel’, navigate to ‘Manage/SLA’ and add SLA plans as p
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/18dde732-6d3b-4e19-b79f-7a6631098c5c)
 ![image](https://github.com/yohan-perera/post-install-config/assets/156178441/3bbf4dec-5c2c-480f-a397-4e9449f54f1b)
 
+<br />
 <p>
 Navigate to ‘Manage/Help Topics’ and add help topic information as per the following examples.
 </p>
